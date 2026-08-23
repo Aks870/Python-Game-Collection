@@ -108,6 +108,30 @@ Python-Game-Collection/
 
 ---
 
+## 🎮 Download & Play
+
+Want to play the games **without installing Python or Pygame**?
+
+Download the latest Windows release:
+
+👉 **[Download Python Game Collection v1.0.0](https://github.com/Aks870/Python-Game-Collection/releases/tag/v1.0.0)**
+
+### Available Games
+
+* 🐍 **Snake Game** — Download `snake.exe`
+* ❌⭕ **Tic-Tac-Toe** — Download `tictactoe.exe`
+
+### How to Play
+
+1. Open the release page.
+2. Download the `.exe` file of the game you want to play.
+3. Double-click the downloaded `.exe` file.
+4. Start playing! 🎮
+
+> **Note:** Windows may show a security warning when running an `.exe` downloaded from the internet. If you trust the source, choose the option to continue running the application.
+
+---
+
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
@@ -115,7 +139,7 @@ Python-Game-Collection/
 Clone this repository using Git:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/Aks870/Python-Game-Collection.git
 ```
 
 ### 2. Open the Project Folder
@@ -193,15 +217,15 @@ Use the arrow keys to control the snake.
 
 ### ❌⭕ Tic-Tac-Toe — X Wins
 
-![Tic-Tac-Toe X Wins](image/tic-tac-toe-win.jpeg)
+![Tic-Tac-Toe X Wins](image/tic-tac-toe-win.png)
 
 ### ❌⭕ Tic-Tac-Toe — Game Draw
 
-![Tic-Tac-Toe Game Draw](image/tic-tac-toe-draw.jpeg)
+![Tic-Tac-Toe Game Draw](image/tic-tac-toe-draw.png)
 
 ### 🐍 Snake Game
 
-![Snake Game](image/snake-game.jpeg)
+![Snake Game](image/snake-game.png)
 
 ---
 
